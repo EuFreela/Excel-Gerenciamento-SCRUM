@@ -1,3 +1,3 @@
 # Modelo de Gerenciamento SCRUM
 
-<p>Modelo Excel</p>
+<p>Modelo criado no Excel</p>
