@@ -4,7 +4,7 @@
 
 <p>Sou gerente de projetos junior certificado pela SCRUM GUIDE. Este modelo excel atende minhas necessidades e costumo usá-lo sempre, tanto para projetos profissionais/pessoais quanto metas a serem batidas no dia a dia com estudos, exercícios físicos, etc.</p>
 
-<p>Como ão se trata de um programa de computador, a tabela necessita de arranjos de acordo com o projeto, como adisão de backlogs e consequentemente informando esses dados em demais abas a ser processado os dados</p>
+<p>Como não se trata de um programa de computador, a tabela necessita de arranjos de acordo com o projeto, como adição de backlogs e consequentemente informando esses dados em demais abas</p>
 
 <p>Neste exemplo sou: o Product Owner; o Scrum Master; e a Developper Team</p>
 
