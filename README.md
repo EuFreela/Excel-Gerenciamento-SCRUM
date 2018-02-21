@@ -6,6 +6,6 @@
 
 <p>Como não se trata de um programa de computador, a tabela necessita de arranjos de acordo com o projeto, como adição de backlogs e consequentemente informando esses dados em demais abas</p>
 
-<p>Neste exemplo sou: o Product Owner; o Scrum Master; e a Developper Team</p>
+<p>Nesta tabela tu és: o Product Owner; o Scrum Master; e a Developper Team</p>
 
 <img src="https://s13.postimg.org/n1ow727w7/image.png" width="450" height="250">
