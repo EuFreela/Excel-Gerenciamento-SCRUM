@@ -8,4 +8,4 @@
 
 <p>Nesta tabela tu és: o Product Owner; o Scrum Master; e a Developper Team</p>
 
-<img src="https://s13.postimg.org/n1ow727w7/image.png" width="450" height="250">
+<img src="https://s13.postimg.cc/n1ow727w7/image.png" width="450" height="250">
